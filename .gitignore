@@ -5,7 +5,9 @@
 .DS_Store
 
 # npm
+ formatting-linting
 node_modules/
 
 #eslint folder
 .eslintcachenpm
+
