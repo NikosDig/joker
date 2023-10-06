@@ -1,7 +1,8 @@
 {
   "name": "joker",
   "version": "0.0.1",
-  "description": "\"Application that tels jokes\"",
+  "description": "Application that tels jokes",
+  "type": "module",
   "main": "src/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,4 +23,5 @@
     "url": "https://github.com/NikosDig/joker/issues"
   },
   "homepage": "https://github.com/NikosDig/joker#readme"
+  
 }
