@@ -1,6 +1,6 @@
 {
   "name": "nikos-example-joker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Application that tels jokes",
   "type": "module",
   "main": "src/index.html",
