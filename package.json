@@ -1,0 +1,25 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "\"Application that tels jokes\"",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikosDig/joker.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "e-commerce",
+    "website"
+  ],
+  "author": "nikos digalakis <nikos_23_chania@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NikosDig/joker/issues"
+  },
+  "homepage": "https://github.com/NikosDig/joker#readme"
+}
