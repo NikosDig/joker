@@ -1,4 +1,3 @@
-
 import joker from 'give-me-a-joke';
 
 export function dadJoke() {
